@@ -24,16 +24,16 @@ layout: default
 </section>
 
 <!--list syndications--->
-<div class="syndicationsPanel">
-   <div class="syndicationsPanel__container">
+<div class="partnersPanel">
+   <div class="partnersPanel__container">
 
       {% assign syndications = site.syndications | sort: 'ranking' %}
       {% assign number_of_syndications = syndications | size %}
       {% for syndication in syndications %}
-      <div class="syndicationsPanel__item enterAnimation" data-enter-animation>
+      <div class="partnersPanel__item enterAnimation" data-enter-animation>
          <a href="{{ syndication.url }}"><img src="{{ syndication.image }}" alt="{{ syndication.name }} lLgo" /></a>
-         <div class="syndicationsPanel__itemName"><a href="{{ syndication.url }}">{{ syndication.name }}</a></div>
-         <div class="syndicationsPanel__itemQuote">{{ syndication.description }}</div>
+         <div class="partnersPanel__itemName"><a href="{{ syndication.url }}">{{ syndication.name }}</a></div>
+         <div class="partnersPanel__itemQuote">{{ syndication.description }}</div>
          {% assign number_of_syndication_latest = syndication.latest | size %}
          {% if number_of_syndication_latest > 0 %}
          <p><strong>The Latest:</strong></p>
