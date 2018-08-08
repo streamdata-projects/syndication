@@ -8,7 +8,7 @@ layout: default
    <div class="imageMasthead__content-side">
       <div class="imageMasthead__content-container">
          <div class="imageMasthead__content-wrap">
-            <h3 class="imageMasthead__eyebrow enterAnimation" data-enter-animation><a href="https://github.com/streamdata-projects/syndications/blob/master/_config.yml" target="_blank" style="color: #000;">{{ site.title }}</a></h3>
+            <h3 class="imageMasthead__eyebrow enterAnimation" data-enter-animation><a href="https://github.com/streamdata-projects/syndication/blob/master/_config.yml" target="_blank" style="color: #000;">{{ site.title }}</a></h3>
             <h1 class="imageMasthead__heading enterAnimation" data-enter-animation>{{ site.title }} Philosophy</h1>
             <div class="imageMasthead__body enterAnimation" data-enter-animation>
                <p>{{ site.philosophy }}</p>
@@ -37,7 +37,7 @@ layout: default
          {% assign number_of_syndication_latest = syndication.latest | size %}
          {% if number_of_syndication_latest > 0 %}
          <p><strong>The Latest:</strong></p>
-           <ul style="list-style-type: circle; padding-top: 10px;">
+           <ul style="list-style-type: circle; padding-top: 15px;">
              {% for latest in syndication.latest %}
                 <li style="padding: 3px 0px 3px 20px;">&rarr; <a href="{{ latest.url }}">{{ latest.title }}</a></li>
              {% endfor %}
