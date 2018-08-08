@@ -20,7 +20,7 @@ syndications:
         url: https://streamdata.io/blog/vert-x-and-the-async-calls-chain/
       - title: Vert.x and the async calls chain
         url: https://streamdata.io/blog/vert-x-and-the-async-calls-chain/
-      - title: [PHP] Streaming Multiple Github Account Activity Feeds
+      - title: Streaming Multiple Github Account Activity Feeds
         url: https://streamdata.io/blog/streaming-multiple-github-activity-feeds-using-streamdataio/
       - title: Adding Real-Time Data to HTML5 Financial Charts
         url: https://streamdata.io/blog/how-to-take-chartiq-one-step-further-with-real-time-data/
