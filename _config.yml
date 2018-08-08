@@ -1,0 +1,51 @@
+# Main Stuff
+title: Syndications
+url: syndication.streamdata.io
+
+# Syndications
+philosophy: This is our project area for syndicating relevant content, data, and other resources to a variety of locations. To help us at Streamdata.io better spread information related to streaming, webhooks, and other event-driven technology, we've setup this portal, and project area for tracking on the relevant syndication destinations, as well as tools for helping track the most sensible approach to syndicating content across these locations.
+
+syndications:
+  - name: Reddit
+    ranking: 1
+    description: Managing the Streamdatio conversation over at Reddit.
+    url: https://www.reddit.com/
+    image: http://syndication.streamdata.io/images/reddit-logo.jpeg
+    profile: https://www.reddit.com/domain/streamdata.io/
+    search: https://www.reddit.com/search?q=streamdata.io
+    latest:
+      - title: How to handle retry with the EventBus?
+        url: https://streamdata.io/blog/vert-x-how-to-handle-retry-with-the-eventbus/
+      - title: Vert.x and the async calls chain
+        url: https://streamdata.io/blog/vert-x-and-the-async-calls-chain/
+      - title: Vert.x and the async calls chain
+        url: https://streamdata.io/blog/vert-x-and-the-async-calls-chain/
+      - title: [PHP] Streaming Multiple Github Account Activity Feeds
+        url: https://streamdata.io/blog/streaming-multiple-github-activity-feeds-using-streamdataio/
+      - title: Adding Real-Time Data to HTML5 Financial Charts
+        url: https://streamdata.io/blog/how-to-take-chartiq-one-step-further-with-real-time-data/
+  - name: Hacker News
+    ranking: 2
+    description: Managing the Streamdatio conversation over at Hacker News.
+    url: https://news.ycombinator.com/
+    image: http://syndication.streamdata.io/images/hacker-news.jpg
+    profile: https://news.ycombinator.com/user?id=StreamdataIO
+    search: https://hn.algolia.com/?query=streamdata.io&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story
+    latest:
+      - title: Super-simple real-time chat with restdb.io and streamdata.io
+        url: https://restdb.io/blog/#!posts/57026178d768113700004116
+      - title: Server-Sent Events explained with usecases
+        url: http://streamdata.io/blog/server-sent-events/
+      - title: How to Build a Hello World Plugin for Kong
+        url: http://streamdata.io/blog/developing-an-helloworld-kong-plugin/
+      - title: Text Analysis Machine Learning APIs
+        url: https://streamdata.io/blog/text-analysis-machine-learning-apis/
+
+
+# Other Settings
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+github_user: streamdata-projects
+github_repo: syndications
+github_branch: master

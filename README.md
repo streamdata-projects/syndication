@@ -1,2 +1,4 @@
-# syndication
-This is the syndication project.
+# Syndication Project
+This is the Streamdata.io syndication project.
+
+url: http://syndication.streamdata.io
