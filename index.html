@@ -58,7 +58,7 @@ layout: default
          {% assign number_of_syndications_reddit_search = syndication.latest_reddit_searches | size %}
          {% if number_of_syndications_reddit_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
-           <p><strong>The Latest Reddit Searches:</strong></p>
+           <p><strong>The Latest Streamdata.io Reddit Searches:</strong></p>
            <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in syndication.latest_reddit_searches %}
@@ -72,7 +72,7 @@ layout: default
          {% assign number_of_syndications_hacker_news_search = syndication.latest_hacker_news_searches | size %}
          {% if number_of_syndications_hacker_news_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
-           <p><strong>The Latest Hacker News Searches:</strong></p>
+           <p><strong>The Latest  Streamdata.io Hacker News Searches:</strong></p>
            <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in syndication.latest_hacker_news_searches %}
@@ -102,7 +102,7 @@ layout: default
       {% for curation in curations %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
          <div class="partnersPanel__itemName">{{ curation[0] }}</div>
-         <div style="height: 200px; overflow: scroll;">
+         <div style="height: 400px; overflow: scroll;">
            <ul style="list-style-type: circle; padding-top: 15px;">
              {% for item in curation[1] %}
                 <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ item.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ item.title }}</a>  ({{ item.domain }}) ({{ item.item_date }})</li>
