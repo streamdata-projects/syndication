@@ -306,3 +306,8 @@ competition:
   - Media
   - Links
   - internet
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+github_user: streamdata-projects
+github_repo: syndications
+github_branch: master
