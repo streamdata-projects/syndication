@@ -44,7 +44,7 @@ layout: default
            </ul>
          {% endif %}
 
-         {% assign number_of_syndications_reddit_search = syndications.latest_reddit_searches | size %}
+         {% assign number_of_syndications_reddit_search = syndication.latest_reddit_searches | size %}
          {% if number_of_syndications_reddit_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Reddit Searches:</strong></p>
@@ -58,7 +58,7 @@ layout: default
          </div>
          {% endif %}
 
-         {% assign number_of_syndications_hacker_news_search = syndications.latest_hacker_news_searches | size %}
+         {% assign number_of_syndications_hacker_news_search = syndication.latest_hacker_news_searches | size %}
          {% if number_of_syndications_hacker_news_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Hacker News Searches:</strong></p>
