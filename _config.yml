@@ -47,14 +47,14 @@ syndications:
   email: ""
   blog_url: ""
   blog_rss_url: ""
-  twitter_url: ""
+  twitter_url: https://twitter.com/newsycombinator
   github_url: Streamdata
   tag_url: ""
   tag_description: ""
   base_url: ""
-  portal_url: ""
-  image: ""
-  image_width: ""
+  portal_url: https://github.com/HackerNews/API
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hn-246x0w.jpg
+  image_width: "150"
   latest_blog: []
   latest_tweets: []
   latest_github_activity: []
