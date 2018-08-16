@@ -44,13 +44,13 @@ layout: default
            </ul>
          {% endif %}
 
-         {% assign number_of_competition_reddit_search = competition.latest_reddit_searches | size %}
-         {% if number_of_competition_reddit_search > 0 %}
+         {% assign number_of_syndications_reddit_search = syndications.latest_reddit_searches | size %}
+         {% if number_of_syndications_reddit_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Reddit Searches:</strong></p>
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
-               {% for search in competition.latest_reddit_searches %}
+               {% for search in syndications.latest_reddit_searches %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
               {% endfor %}
              </ul>
@@ -58,13 +58,13 @@ layout: default
          </div>
          {% endif %}
 
-         {% assign number_of_competition_hacker_news_search = competition.latest_hacker_news_searches | size %}
-         {% if number_of_competition_hacker_news_search > 0 %}
+         {% assign number_of_syndications_hacker_news_search = syndications.latest_hacker_news_searches | size %}
+         {% if number_of_syndications_hacker_news_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Hacker News Searches:</strong></p>
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
-               {% for search in competition.latest_hacker_news_searches %}
+               {% for search in syndications.latest_hacker_news_searches %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
               {% endfor %}
              </ul>
@@ -86,7 +86,7 @@ layout: default
 <div class="partnersPanel">
    <div class="partnersPanel__container">
 
-      {% assign curations = site.syndications.curation %}
+      {% assign curations = site.curation %}
       {% assign number_of_curations = curations | size %}
       {% for curation in curations %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
