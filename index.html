@@ -91,8 +91,13 @@ layout: default
       {% for curation in curations %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
          <div class="partnersPanel__itemName">{{ curation[0] }}</div>
-
-
+         <div style="height: 200px; overflow: scroll;">
+           <ul style="list-style-type: circle; padding-top: 15px;">
+             {% for item in curation[1] %}
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ item.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ item.title }}</a> ({{ item.item_date }}) ({{ item.domain }})</li>
+            {% endfor %}
+           </ul>
+         </div>
       </div>
       {% endfor %}
 
