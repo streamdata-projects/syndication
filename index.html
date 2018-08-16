@@ -59,7 +59,7 @@ layout: default
          {% if number_of_syndications_reddit_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Reddit Searches:</strong></p>
-           <div style="height: 200px; overflow: scroll;">
+           <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in syndication.latest_reddit_searches %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
@@ -73,7 +73,7 @@ layout: default
          {% if number_of_syndications_hacker_news_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Hacker News Searches:</strong></p>
-           <div style="height: 200px; overflow: scroll;">
+           <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in syndication.latest_hacker_news_searches %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
@@ -105,7 +105,7 @@ layout: default
          <div style="height: 200px; overflow: scroll;">
            <ul style="list-style-type: circle; padding-top: 15px;">
              {% for item in curation[1] %}
-                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ item.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ item.title }}</a> ({{ item.item_date }}) ({{ item.domain }})</li>
+                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ item.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ item.title }}</a>  ({{ item.domain }}) ({{ item.item_date }})</li>
             {% endfor %}
            </ul>
          </div>
