@@ -71,7 +71,28 @@ layout: default
            </div>
          </div>
          {% endif %}
-         
+
+      </div>
+      {% endfor %}
+
+
+   </div>
+</div>
+<!--list syndications--->
+
+<hr />
+
+<!--list syndications--->
+<div class="partnersPanel">
+   <div class="partnersPanel__container">
+
+      {% assign curations = site.syndications.curation %}
+      {% assign number_of_curations = curations | size %}
+      {% for curation in curations %}
+      <div class="partnersPanel__item enterAnimation" data-enter-animation>
+         <div class="partnersPanel__itemName">{{ curation[0] }}</div>
+
+
       </div>
       {% endfor %}
 
