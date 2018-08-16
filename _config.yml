@@ -201,6 +201,37 @@ syndications:
   - Indie EdTech Data Jam
   - API Service Provider
   - API Provider
+- organization_id: uGiCn2x1xEj116XOvkmr01rbfchitjHP86XWXwFpKPV6E117
+  name: Medium
+  description: Medium is an online publishing platform founded by Twitter co-founder
+    Evan Williams in August 2012. The platform has evolved into a hybrid of non-professional
+    contributions and professional, paid contributions, an example of social journalism.
+  url: https://medium.com/
+  email: ""
+  blog_url: ""
+  blog_rss_url: ""
+  twitter_url: https://twitter.com/Medium
+  github_url: https://github.com/Medium
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/medium-logo.png
+  image_width: "150"
+  latest_blog: []
+  latest_tweets: []
+  latest_github_activity: []
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  tags:
+  - Stack Network
+  - SDIO Syndication
+  - Profiled
+  - Media
+  - Communications
+  - Blogging
+  - API Service Provider
+  - API Provider
 - organization_id: ZfpwQzgwRK6ZbvcKC6EBlzI0e1165xo0J2EsHOy123CgW116M117
   name: Reddit
   description: Reddit is a community of millions of users engaging in the creation
@@ -271,6 +302,41 @@ syndications:
   - Media
   - Links
   - internet
+- organization_id: v60XvSWKaOhE8R3mMVrGRkf2RuqUBrKnkdJ1Ykx2RT0117
+  name: Sweetcode
+  description: Creating a meaningful voice is our business with our customers, and
+    our passion within our community. Sweetcode is a site owned and managed by Fixate
+    IO. Its purpose is simple&mdash;to give techies a place to share what they know,
+    and impact the market with higher-value blog content. Fixate IO is a content marketing
+    platform. We make money by producing content (like blogs and white papers) for
+    vendors in the tech space. All of our content is written by practitioners who
+    want to share what they know, and what they do for their day jobs. At Sweetcode,
+    every Fixate-approved contributor is invited to write on topics which are 100%
+    their choice. The site serves as an open forum for our paid contributors, and
+    as a way for Fixate to gather anonymous market data to help improve the content
+    we create. We are actively seeking new contributors.
+  url: https://sweetcode.io
+  email: ""
+  blog_url: ""
+  blog_rss_url: https://sweetcode.io/feed/
+  twitter_url: https://twitter.com/SweetCodeHQ
+  github_url: ""
+  tag_url: ""
+  tag_description: ""
+  base_url: ""
+  portal_url: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Sweetcode-gray-shadow-300px.png
+  image_width: "150"
+  latest_blog: []
+  latest_tweets: []
+  latest_github_activity: []
+  latest_reddit_searches: []
+  latest_hacker_news_searches: []
+  tags:
+  - Tech Blog
+  - SDIO Syndication
+  - Mobile
+  - Content
 markdown: kramdown
 exclude:
 - .rvmrc
@@ -800,6 +866,14 @@ curation:
     url: https://medium.com/p/dd4d32dc285
     domain: medium.com
   Machine Learning:
+  - item_date: "2018-08-16 11:08:49"
+    title: Oracle launches GraphPipe for deploying machine learning models
+    url: https://sdtimes.com/?p=31979
+    domain: sdtimes.com
+  - item_date: "2018-08-16 10:23:32"
+    title: Salesforce Open Sources an Engine to Automate ML Model Building
+    url: https://thenewstack.io/?p=5424385
+    domain: thenewstack.io
   - item_date: "2018-08-13 07:35:53"
     title: 'Vertical Spotlight: Machine Learning For Customer Service'
     url: https://blog.algorithmia.com/?p=13200
@@ -2263,10 +2337,6 @@ curation:
     title: "UK gave Google's DeepMind access to patient data without legal basis"
     url: https://arstechnica.com/?p=1098385
     domain: arstechnica.com
-  - item_date: "2017-05-11 14:42:43"
-    title: Introduction to Video Metadata Extraction
-    url: https://blog.algorithmia.com/?p=7029
-    domain: blog.algorithmia.com
   Real Time:
   - item_date: "2018-08-10 06:53:52"
     title: Launching A Streaming Version Of Your APIs For Your Heaviest Users
