@@ -90,7 +90,7 @@ layout: default
            <div style="height: 350px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
                {% for search in syndication.latest_hacker_news_searches %}
-                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a></li>
               {% endfor %}
              </ul>
            </div>
