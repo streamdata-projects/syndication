@@ -10,12 +10,7 @@ syndications:
 - organization_id: h0XcqyN0TsVIt7ImRbcLW9Yy1SZ9ui123RAjzpLsJLkcc117
   name: DZone
   description: DZone Software provides tools and processes to help customers accelerate
-    productivity through agile learning and knowledge-centered collaboration. Our
-    proprietary TeamHub platform powers scalable, secure solutions for world-class
-    customers like IBM, Microsoft, GE, LinkedIn, Amazon, Facebook, SAP and many more.
-    We offer both cloud-hosted and on-premise TeamHub solutions, and our platform
-    is widely used for internal, employee-facing applications as well as external,
-    customer-facing applications.
+    productivity through agile learning and knowledge-centered collaboration.&nbsp;
   url: https://dzone.com
   email: ""
   blog_url: ""
@@ -138,8 +133,8 @@ syndications:
   - Bookmarks
 - organization_id: rHGu2O43h116868L87FuwJNJ123CxZGrxnAdkewzPXgo6TQ117
   name: LinkedIn
-  description: 500 million+ members | Manage your professional identity. Build and
-    engage with your professional network. Access knowledge, insights and opportunities.
+  description: DZone Software provides tools and processes to help customers accelerate
+    productivity through agile learning and knowledge-centered collaboration.&nbsp;
   url: http://linkedin.com
   email: ""
   blog_url: http://blog.linkedin.com
