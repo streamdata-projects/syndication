@@ -11,7 +11,7 @@ syndications:
   name: DZone
   description: DZone Software provides tools and processes to help customers accelerate
     productivity through agile learning and knowledge-centered collaboration.&nbsp;
-  url: https://dzone.com
+  url: https://thenewstack.io/?p=5273843
   email: ""
   blog_url: ""
   blog_rss_url: http://feeds.dzone.com/home
@@ -23,7 +23,15 @@ syndications:
   portal_url: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dzone-logo.png
   image_width: "150"
-  latest_blog: []
+  latest_blog:
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches: []
