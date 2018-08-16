@@ -125,86 +125,72 @@ competition:
   - hacker_news_id: "17143224"
     title: Show HN Feedback for our free Data Warehouse needed
     url: ""
-    author: ""
     created_at: "2018-05-24"
     points: "2"
   - hacker_news_id: "16329450"
     title: Use Hazelcast Jet to Stream Data from an IMap to a Kafka Topic
     url: https://blog.hazelcast.com/use-hazelcast-jet-stream-data-imap-kafka-topic/
-    author: ""
     created_at: "2018-02-07"
     points: "2"
   - hacker_news_id: "16133648"
     title: Stream data from Kafka to the browser
     url: http://www.landoop.com/blog/2017/12/redux-lenses-streaming/
-    author: ""
     created_at: "2018-01-12"
     points: "2"
   - hacker_news_id: "15967566"
     title: Stream data from Kafka to the browser using React/Redux
     url: https://medium.com/@SebDragomir/connecting-to-kafka-using-redux-lenses-streaming-96a10bf12e11
-    author: ""
     created_at: "2017-12-19"
     points: "1"
   - hacker_news_id: "15597250"
     title: StreamData Property-based testing and data generation for Elixir
     url: https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
-    author: ""
     created_at: "2017-10-31"
     points: "5"
   - hacker_news_id: "11840314"
     title: "RCP 11 \u2013 Stream data type proposal for Redis"
     url: https://github.com/redis/redis-rcp/blob/master/RCP11.md
-    author: ""
     created_at: "2016-06-05"
     points: "125"
   - hacker_news_id: "11425995"
     title: Show HN Super-simple real-time chat with restdb.io and streamdata.io
     url: https://restdb.io/blog/#!posts/57026178d768113700004116
-    author: ""
     created_at: "2016-04-04"
     points: "3"
   - hacker_news_id: "11360572"
     title: Streamdata.io at the GDG DevFest Paris 2016
     url: http://streamdata.io/blog/streamdata-io-at-the-gdg-devfest-paris-2016/
-    author: ""
     created_at: "2016-03-25"
     points: "1"
   - hacker_news_id: "10163040"
     title: Apache Flink platform for scalable batch and stream data processing
     url: https://flink.apache.org/
-    author: ""
     created_at: "2015-09-02"
     points: "2"
   - hacker_news_id: "9108123"
     title: Putting Apache Kafka to Use A Guide to Building a Stream Data Platform
     url: http://blog.confluent.io/2015/02/25/stream-data-platform-1/
-    author: ""
     created_at: "2015-02-25"
     points: "33"
   - hacker_news_id: "9110098"
     title: Putting Apache Kafka to use a guide to building a stream data platform
       (Part 2)
     url: http://blog.confluent.io/2015/02/25/stream-data-platform-1
-    author: ""
     created_at: "2015-02-25"
     points: "6"
   - hacker_news_id: "8878196"
     title: Detecting Anomalies in Stream Data
     url: https://github.com/twitter/AnomalyDetection
-    author: ""
     created_at: "2015-01-12"
     points: "1"
   - hacker_news_id: "7985400"
     title: Show HN Stream data into S3 bucket using the multipart upload API and Node.js
     url: https://github.com/nathanpeck/s3-upload-stream
-    author: ""
     created_at: "2014-07-03"
     points: "8"
   - hacker_news_id: "2198235"
     title: Study Claims Bing more accurate than Google Search
     url: http://seekingalpha.com/news-article/565537-bing-more-accurate-than-google-study-finds
-    author: ""
     created_at: "2011-02-09"
     points: "2"
   tags:
