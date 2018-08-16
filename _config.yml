@@ -40,7 +40,22 @@ syndications:
         url: http://streamdata.io/blog/developing-an-helloworld-kong-plugin/
       - title: Text Analysis Machine Learning APIs
         url: https://streamdata.io/blog/text-analysis-machine-learning-apis/
-
+  - name: LinkedIn
+    ranking: 3
+    description: Some description
+    url: https://news.ycombinator.com/
+    image: http://syndication.streamdata.io/images/hacker-news.jpg
+    profile: https://news.ycombinator.com/user?id=StreamdataIO
+    search: https://hn.algolia.com/?query=streamdata.io&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story
+    latest:
+      - title: Super-simple real-time chat with restdb.io and streamdata.io
+        url: https://restdb.io/blog/#!posts/57026178d768113700004116
+      - title: Server-Sent Events explained with usecases
+        url: http://streamdata.io/blog/server-sent-events/
+      - title: How to Build a Hello World Plugin for Kong
+        url: http://streamdata.io/blog/developing-an-helloworld-kong-plugin/
+      - title: Text Analysis Machine Learning APIs
+        url: https://streamdata.io/blog/text-analysis-machine-learning-apis/
 
 # Other Settings
 markdown: kramdown
