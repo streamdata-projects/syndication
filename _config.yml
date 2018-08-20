@@ -63,7 +63,7 @@ syndications:
   tags:
   - Tech News
   - SDIO Syndication
-  - Profiled
+  - Profiles
   - Media
 - organization_id: u3uvH1232116cq6r8UxtKIF5K9K123wmwI2DYgbBykQ116vyqso117
   name: Hacker News
@@ -161,6 +161,7 @@ syndications:
   tags:
   - SDIO Syndication
   - Links
+  - General Data
   - Curation
   - Bookmarks
 - organization_id: rHGu2O43h116868L87FuwJNJ123CxZGrxnAdkewzPXgo6TQ117
@@ -189,16 +190,20 @@ syndications:
   - Stack Network
   - Stack
   - Social Networks
-  - Social Network
-  - Social API
+  - Social Networks
   - Social
+  - Social
+  - Service API
   - SDIO Syndication
   - SaaS
-  - Profiled
+  - Relative Data
+  - Profiles
+  - Pedestal
   - My API Stack
   - Mobile
   - internet
   - Indie EdTech Data Jam
+  - General Data
   - API Service Provider
   - API Provider
 - organization_id: uGiCn2x1xEj116XOvkmr01rbfchitjHP86XWXwFpKPV6E117
@@ -226,8 +231,10 @@ syndications:
   tags:
   - Stack Network
   - SDIO Syndication
-  - Profiled
+  - Relative Data
+  - Profiles
   - Media
+  - General Data
   - Communications
   - Blogging
   - API Service Provider
@@ -297,11 +304,13 @@ syndications:
   - Social
   - Social
   - SDIO Syndication
+  - Pedestal
   - My API Stack
   - Mobile
   - Media
   - Links
   - internet
+  - General Data
 - organization_id: v60XvSWKaOhE8R3mMVrGRkf2RuqUBrKnkdJ1Ykx2RT0117
   name: Sweetcode
   description: Creating a meaningful voice is our business with our customers, and
@@ -581,6 +590,10 @@ competition:
   - internet
 curation:
   Event Architecture:
+  - item_date: "2018-08-20 08:41:40"
+    title: Writing an Event
+    url: https://medium.com/p/a28d19cfc238
+    domain: medium.com
   - item_date: "2018-08-10 07:13:59"
     title: API Management For Kafka
     url: https://streamdata.io/?p=7860
@@ -859,6 +872,18 @@ curation:
     url: https://medium.com/p/dd4d32dc285
     domain: medium.com
   Machine Learning:
+  - item_date: "2018-08-17 02:06:03"
+    title: When Machine Learning Meets the Business World
+    url: https://dzone.com/articles/2387286
+    domain: dzone.com
+  - item_date: "2018-08-17 10:01:02"
+    title: Testing Features of ML Models
+    url: https://dzone.com/articles/2388469
+    domain: dzone.com
+  - item_date: "2018-08-06 07:31:59"
+    title: Introduction to Dataset Augmentation and Expansion
+    url: https://blog.algorithmia.com/?p=13175
+    domain: blog.algorithmia.com
   - item_date: "2018-08-16 11:08:49"
     title: Oracle launches GraphPipe for deploying machine learning models
     url: https://sdtimes.com/?p=31979
@@ -2322,15 +2347,15 @@ curation:
     title: Google brings 45 teraflops tensor flow processors to its compute cloud
     url: https://arstechnica.com/?p=1099321
     domain: arstechnica.com
-  - item_date: "2017-05-16 06:00:00"
-    title: Instagram adds 'face filters' to complete its Snapchat transformation
-    url: http://mashable.com/?p=bp-45815
-    domain: mashable.com
-  - item_date: "2017-05-16 06:32:29"
-    title: "UK gave Google's DeepMind access to patient data without legal basis"
-    url: https://arstechnica.com/?p=1098385
-    domain: arstechnica.com
   Real Time:
+  - item_date: "2018-08-17 22:04:02"
+    title: Using GitHub as a Data Lake
+    url: https://dzone.com/articles/2387727
+    domain: dzone.com
+  - item_date: "2018-08-16 09:19:33"
+    title: Google updates Firebase to improve app experiences
+    url: https://sdtimes.com/?p=31974
+    domain: sdtimes.com
   - item_date: "2018-08-10 06:53:52"
     title: Launching A Streaming Version Of Your APIs For Your Heaviest Users
     url: https://streamdata.io/?p=7848
