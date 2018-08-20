@@ -11,7 +11,7 @@ syndications:
   name: DZone
   description: DZone Software provides tools and processes to help customers accelerate
     productivity through agile learning and knowledge-centered collaboration.&nbsp;
-  url: https://thenewstack.io/?p=5273843
+  url: http://www.dzone.com
   email: ""
   blog_url: ""
   blog_rss_url: http://feeds.dzone.com/home
@@ -70,7 +70,7 @@ syndications:
   description: Hacker News is a social news website focusing on computer science and
     entrepreneurship. It is run by Paul Grahams investment fund and startup incubator,
     Y Combinator.
-  url: http://seekingalpha.com/news-article/565537-bing-more-accurate-than-google-study-finds
+  url: https://news.ycombinator.com/
   email: ""
   blog_url: ""
   blog_rss_url: ""
@@ -243,7 +243,7 @@ syndications:
   name: Reddit
   description: Reddit is a community of millions of users engaging in the creation
     of content and the sharing of conversation across tens of thousands of topics.
-  url: http://streamdata.io/blog/integrating-streamdata-io-with-node-js/
+  url: http://www.reddit.com
   email: ""
   blog_url: http://www.redditblog.com/
   blog_rss_url: http://www.redditblog.com/feeds/posts/default?alt=rss
@@ -2348,6 +2348,10 @@ curation:
     url: https://arstechnica.com/?p=1099321
     domain: arstechnica.com
   Real Time:
+  - item_date: "2018-07-22 08:08:52"
+    title: Google Firebase Cloud Messaging XMPP API
+    url: https://www.programmableweb.com/api/google-firebase-cloud-messaging-xmpp
+    domain: www.programmableweb.com
   - item_date: "2018-08-17 22:04:02"
     title: Using GitHub as a Data Lake
     url: https://dzone.com/articles/2387727
