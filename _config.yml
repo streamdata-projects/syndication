@@ -153,6 +153,16 @@ syndications:
     url: https://github.com/nathanpeck/s3-upload-stream
     created_at: "2014-07-03"
     points: "8"
+  - hacker_news_id: "6014769"
+    title: Why mobile web apps are slow
+    url: http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/
+    created_at: "2013-07-09"
+    points: "28"
+  - hacker_news_id: "2559818"
+    title: TermKit - a graphical terminal replacement
+    url: http://acko.net/blog/on-termkit
+    created_at: "2011-05-18"
+    points: "53"
   - hacker_news_id: "2198235"
     title: Study Claims Bing more accurate than Google Search
     url: http://seekingalpha.com/news-article/565537-bing-more-accurate-than-google-study-finds
@@ -187,6 +197,7 @@ syndications:
   latest_hacker_news_searches: []
   tags:
   - Technology
+  - Streamrank
   - Stack Network
   - Stack
   - Social Networks
@@ -196,6 +207,7 @@ syndications:
   - Service API
   - SDIO Syndication
   - SaaS
+  - Relative StreamRank
   - Relative Data
   - Profiles
   - Pedestal
@@ -299,6 +311,7 @@ syndications:
   latest_hacker_news_searches: []
   tags:
   - Technology
+  - Streamrank
   - Stack Network
   - Stack
   - Social
