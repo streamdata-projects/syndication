@@ -197,7 +197,7 @@ syndications:
   latest_hacker_news_searches: []
   tags:
   - Technology
-  - StreamrRank
+  - StreamRank
   - Stack Network
   - Stack
   - Social Networks
@@ -311,12 +311,13 @@ syndications:
   latest_hacker_news_searches: []
   tags:
   - Technology
-  - StreamrRank
+  - StreamRank
   - Stack Network
   - Stack
   - Social
   - Social
   - SDIO Syndication
+  - Relative StreamRank
   - Pedestal
   - My API Stack
   - Mobile
