@@ -886,6 +886,10 @@ curation:
     url: https://medium.com/p/dd4d32dc285
     domain: medium.com
   Machine Learning:
+  - item_date: "2018-08-21 09:27:01"
+    title: 'Machine Learning: Beyond the buzzword'
+    url: https://blogs.cisco.com/?p=260628
+    domain: blogs.cisco.com
   - item_date: "2018-08-17 02:06:03"
     title: When Machine Learning Meets the Business World
     url: https://dzone.com/articles/2387286
