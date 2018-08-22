@@ -603,7 +603,288 @@ competition:
   - Links
   - internet
 curation:
-  Event Architecture: []
+  Event Architecture:
+  - item_date: "2018-08-20 08:41:40"
+    title: Writing an Event
+    url: https://medium.com/p/a28d19cfc238
+    domain: medium.com
+  - item_date: "2018-08-10 07:13:59"
+    title: API Management For Kafka
+    url: https://streamdata.io/?p=7860
+    domain: streamdata.io
+  - item_date: "2018-07-18 08:32:16"
+    title: "Apache Kafka\xAE vs. Enterprise Service Bus (ESB)Friends, Enemies,
+      or Frenemies?"
+    url: https://www.confluent.io/?p=15333
+    domain: www.confluent.io
+  - item_date: "2018-07-18 02:06:01"
+    title: Event Binding in Angular 2
+    url: https://dzone.com/articles/2252213
+    domain: dzone.com
+  - item_date: "2018-07-11 07:29:25"
+    title: API Event Types For Data Collection Forms
+    url: https://streamdata.io/?p=7587
+    domain: streamdata.io
+  - item_date: "2018-07-12 07:24:12"
+    title: Scheduling Serverless Data Streams Using AWS Lambda And Cloudwatch Events
+    url: https://streamdata.io/?p=7599
+    domain: streamdata.io
+  - item_date: "2018-07-10 06:01:00"
+    title: 'Model Serving: Stream Processing vs. RPC/REST With Java, gRPC, Apache
+      Kafka, TensorFlow'
+    url: https://dzone.com/articles/2314729
+    domain: dzone.com
+  - item_date: "2018-07-06 22:03:01"
+    title: Kafka Tutorial for Fast Data Architecture
+    url: https://dzone.com/articles/2313174
+    domain: dzone.com
+  - item_date: "2018-07-02 22:03:01"
+    title: Kafka Python and Google Analytics
+    url: https://dzone.com/articles/2299985
+    domain: dzone.com
+  - item_date: "2018-07-03 22:05:00"
+    title: Event
+    url: https://dzone.com/articles/2295483
+    domain: dzone.com
+  - item_date: "2018-06-27 06:01:01"
+    title: Interactive Queries in Apache Kafka
+    url: https://dzone.com/articles/2290616
+    domain: dzone.com
+  - item_date: "2018-06-27 10:15:02"
+    title: Event
+    url: https://medium.com/p/f65f99a5b25a
+    domain: medium.com
+  - item_date: "2018-06-30 12:00:21"
+    title: "This Week in Numbers: Apache Kafka's Metamorphosis"
+    url: https://thenewstack.io/?p=5069187
+    domain: thenewstack.io
+  - item_date: "2018-06-28 01:21:35"
+    title: Event
+    url: https://medium.com/p/cf2ebd529ae3
+    domain: medium.com
+  - item_date: "2018-06-27 10:15:02"
+    title: Event
+    url: https://medium.com/p/f65f99a5b25a
+    domain: medium.com
+  - item_date: "2018-06-29 02:05:00"
+    title: Using Event Hubs to Create a Multi
+    url: https://dzone.com/articles/2298993
+    domain: dzone.com
+  - item_date: "2018-06-14 00:19:08"
+    title: Using the STOMP Protocol with Apache ActiveMQ Artemis Broker
+    url: https://developers.redhat.com/blog/?p=501697
+    domain: developers.redhat.com
+  - item_date: "2018-06-01 09:01:02"
+    title: Building a Custom Kafka Connect Connector
+    url: https://dzone.com/articles/2239546
+    domain: dzone.com
+  - item_date: "2018-06-01 09:00:08"
+    title: A Simple Design Pattern For A Custom Events API Out Of The Consul Service
+      Discovery Platform
+    url: https://streamdata.io/?p=7253
+    domain: streamdata.io
+  - item_date: "2018-06-01 22:01:00"
+    title: Use Apache Kafka to Transform a Batch Pipeline Into a Real
+    url: https://dzone.com/articles/2249737
+    domain: dzone.com
+  - item_date: "2018-05-30 18:13:49"
+    title: Making Subscribing To Data Streams From Existing APIs As Turnkey As We
+      Can
+    url: https://streamdata.io/?p=7234
+    domain: streamdata.io
+  - item_date: "2018-05-30 22:06:01"
+    title: Kafka Streams
+    url: https://dzone.com/articles/2242389
+    domain: dzone.com
+  - item_date: "2018-05-31 00:00:00"
+    title: What is WebSub? Common Cases and Implementations
+    url: https://nordicapis.com/?p=8494
+    domain: nordicapis.com
+  - item_date: "2018-05-31 02:00:54"
+    title: Introducing the Kafka
+    url: https://developers.redhat.com/blog/?p=497637
+    domain: developers.redhat.com
+  - item_date: "2018-05-14 09:02:01"
+    title: WSO2 MB vs Apache Kafka Comparison
+    url: https://dzone.com/articles/2210626
+    domain: dzone.com
+  - item_date: "2018-05-05 22:01:02"
+    title: User Events Across a Platform as a Common Event
+    url: https://dzone.com/articles/2199825
+    domain: dzone.com
+  - item_date: "2018-05-03 10:41:20"
+    title: "Introducing the Confluent Operator: Apache Kafka\xAE on Kubernetes"
+    url: https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/
+    domain: www.confluent.io
+  - item_date: "2018-04-20 06:34:09"
+    title: Streamdata.io API Gallery Topics
+    url: https://streamdata.io/?p=6785
+    domain: streamdata.io
+  - item_date: "2018-04-12 22:55:34"
+    title: Server
+    url: https://doc.akka.io/docs/akka-http/current/sse-support.html
+    domain: doc.akka.io
+  - item_date: "2018-04-13 02:01:04"
+    title: Event Sourcing With Kafka
+    url: https://dzone.com/articles/2168821
+    domain: dzone.com
+  - item_date: "2018-04-13 08:25:00"
+    title: "We \u2764 syslogs: Real"
+    url: https://www.confluent.io/?p=11921
+    domain: www.confluent.io
+  - item_date: "2018-04-07 02:56:45"
+    title: 'TwitterSensing: An Event'
+    url: http://thegovlab.org/?p=22941
+    domain: thegovlab.org
+  - item_date: "2018-03-16 17:17:41"
+    title: Real time API can be achieved by Event Driven architecture
+    url: https://medium.com/p/9158974d3f7d
+    domain: medium.com
+  - item_date: "2018-03-17 22:01:03"
+    title: Using Apache Kafka for Real
+    url: https://dzone.com/articles/2119678
+    domain: dzone.com
+  - item_date: "2018-03-15 00:03:05"
+    title: Reliable Event Processing in Azure Functions
+    url: https://medium.com/p/37054dc2d0fc
+    domain: medium.com
+  - item_date: "2018-03-16 07:41:45"
+    title: Helping You Map The Event
+    url: https://streamdata.io/?p=6156
+    domain: streamdata.io
+  - item_date: "2018-03-16 09:16:06"
+    title: 'No More Silos: How to Integrate your Databases with Apache Kafka and CDC'
+    url: https://www.confluent.io/?p=11366
+    domain: www.confluent.io
+  - item_date: "2018-03-13 09:55:50"
+    title: Effective Strategies for Kafka Topic Partitioning
+    url: http://blog.newrelic.com/?p=41887
+    domain: blog.newrelic.com
+  - item_date: "2018-03-13 14:37:35"
+    title: Designing an event
+    url: https://medium.com/p/c4de3f7539fc
+    domain: medium.com
+  - item_date: "2018-03-12 10:33:36"
+    title: Using Apache Kafka for Real
+    url: http://blog.newrelic.com/?p=41868
+    domain: blog.newrelic.com
+  - item_date: "2018-03-07 05:33:05"
+    title: Tuning Into The Event
+    url: https://streamdata.io/?p=5903
+    domain: streamdata.io
+  - item_date: "2018-03-01 09:22:10"
+    title: Events are Everywhere where there are APIs
+    url: https://medium.com/p/60535f1dc042
+    domain: medium.com
+  - item_date: "2018-03-01 07:01:15"
+    title: 'Microservices With Netflix OSS, Apache Kafka, and Docker: Part 2, Microservices
+      With Apache Kafka and Netflix OSS'
+    url: https://dzone.com/articles/2086067
+    domain: dzone.com
+  - item_date: "2018-02-22 00:25:22"
+    title: Google Cloud PubSub background job queue with Cloud Function workers
+    url: https://medium.com/p/78092ce5a8cb
+    domain: medium.com
+  - item_date: "2018-02-20 03:02:04"
+    title: HDP 2.6.4
+    url: https://dzone.com/articles/2063353
+    domain: dzone.com
+  - item_date: "2018-02-15 02:01:01"
+    title: Event
+    url: https://dzone.com/articles/2053232
+    domain: dzone.com
+  - item_date: "2018-02-08 02:01:42"
+    title: 'Apache Ignite Transactions Architecture: Concurrency Modes and Isolation
+      Levels'
+    url: https://dzone.com/articles/2035503
+    domain: dzone.com
+  - item_date: "2018-02-08 07:00:43"
+    title: Confluent and Apache Kafka in 2017
+    url: https://www.confluent.io/?p=10770
+    domain: www.confluent.io
+  - item_date: "2018-02-08 12:01:01"
+    title: Lambda for Asynchronous Message Processing Through SQS
+    url: https://dzone.com/articles/2031127
+    domain: dzone.com
+  - item_date: "2018-02-08 22:02:49"
+    title: Event
+    url: https://dzone.com/articles/2033283
+    domain: dzone.com
+  - item_date: "2018-01-11 09:34:44"
+    title: "Going Serverless for Event Driven Applications: Insights from Adobe I/O's
+      Sandeep Paliwal"
+    url: https://medium.com/p/eb51118ce225
+    domain: medium.com
+  - item_date: "2018-01-10 07:02:15"
+    title: Need for Event
+    url: https://dzone.com/articles/1898127
+    domain: dzone.com
+  - item_date: "2017-12-29 07:14:16"
+    title: Apache Kafka
+    url: https://dzone.com/refcardz/1915206
+    domain: dzone.com
+  - item_date: "2017-12-19 09:05:46"
+    title: Kafka Streams on Heroku
+    url: https://blog.heroku.com/kafka-streams-on-heroku
+    domain: blog.heroku.com
+  - item_date: "2017-12-21 04:56:46"
+    title: Events, Flows and Long
+    url: https://www.infoq.com/articles/events-workflow-automation
+    domain: www.infoq.com
+  - item_date: "2017-12-21 14:19:23"
+    title: A Blockchain Experiment With Apache Kafka
+    url: https://medium.com/p/97ee0ab6aefc
+    domain: medium.com
+  - item_date: "2017-12-20 04:53:43"
+    title: 'KSQL December Release: Streaming SQL for Apache Kafka'
+    url: https://www.confluent.io/?p=10110
+    domain: www.confluent.io
+  - item_date: "2017-12-20 09:00:52"
+    title: Why Microservices Running in Containers Need a Streaming Platform
+    url: https://thenewstack.io/?p=3743578
+    domain: thenewstack.io
+  - item_date: "2017-12-12 10:00:12"
+    title: 'Kafkapocalypse: Monitoring Kafka Without Losing Your Mind'
+    url: http://blog.newrelic.com/?p=40649
+    domain: blog.newrelic.com
+  - item_date: "2017-12-13 09:37:19"
+    title: Enabling Exactly
+    url: https://www.confluent.io/?p=9934
+    domain: www.confluent.io
+  - item_date: "2017-12-16 07:03:05"
+    title: "Kubernetes 1.9 version bump is near \u2013 with APIs to extend the system
+      \u2022 The Register"
+    url: https://www.theregister.co.uk/2017/12/15/kubernetes_19_version_bump_is_near/
+    domain: www.theregister.co.uk
+  - item_date: "2017-12-14 11:29:11"
+    title: The Blog Post on Monitoring an Apache Kafka Deployment to End Most Blog
+      Posts
+    url: https://www.confluent.io/?p=9980
+    domain: www.confluent.io
+  - item_date: "2017-10-26 06:26:00"
+    title: Setup AWS Lambda with Scheduled Events
+    url: https://medium.com/p/2840824ed1ad
+    domain: medium.com
+  - item_date: "2017-10-26 09:18:36"
+    title: 'Microsoft Launches Brigade: An Event'
+    url: https://thenewstack.io/?p=3355476
+    domain: thenewstack.io
+  - item_date: "2017-10-26 03:52:59"
+    title: Event
+    url: https://medium.com/p/4893543ba0f7
+    domain: medium.com
+  - item_date: "2017-10-18 05:07:05"
+    title: Event
+    url: https://herbertograca.com/2017/10/05/event-driven-architecture/
+    domain: herbertograca.com
+  - item_date: "2017-10-07 10:44:42"
+    title: By 2020, 50% of Managed APIs Projected to be Event
+    url: https://medium.com/p/88f7041ea6d8
+    domain: medium.com
+  - item_date: "2017-10-06 09:02:56"
+    title: Building a data lake in S3 using an event
+    url: https://medium.com/p/dd4d32dc285
+    domain: medium.com
   Machine Learning:
   - item_date: "2018-08-21 09:27:01"
     title: 'Machine Learning: Beyond the buzzword'
