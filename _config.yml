@@ -613,8 +613,8 @@ curation:
     url: https://streamdata.io/?p=7860
     domain: streamdata.io
   - item_date: "2018-07-18 08:32:16"
-    title: "Apache Kafka\xAE vs. Enterprise Service Bus (ESB)Friends, Enemies,
-      or Frenemies?"
+    title: "Apache Kafka\xAE vs. Enterprise Service Bus (ESB)Friends, Enemies, or
+      Frenemies?"
     url: https://www.confluent.io/?p=15333
     domain: www.confluent.io
   - item_date: "2018-07-18 02:06:01"
@@ -655,7 +655,7 @@ curation:
     url: https://medium.com/p/f65f99a5b25a
     domain: medium.com
   - item_date: "2018-06-30 12:00:21"
-    title: "This Week in Numbers: Apache Kafka's Metamorphosis"
+    title: 'This Week in Numbers: Apache Kafka''s Metamorphosis'
     url: https://thenewstack.io/?p=5069187
     domain: thenewstack.io
   - item_date: "2018-06-28 01:21:35"
@@ -811,8 +811,8 @@ curation:
     url: https://dzone.com/articles/2033283
     domain: dzone.com
   - item_date: "2018-01-11 09:34:44"
-    title: "Going Serverless for Event Driven Applications: Insights from Adobe I/O's
-      Sandeep Paliwal"
+    title: 'Going Serverless for Event Driven Applications: Insights from Adobe I/O''s
+      Sandeep Paliwal'
     url: https://medium.com/p/eb51118ce225
     domain: medium.com
   - item_date: "2018-01-10 07:02:15"
@@ -1007,7 +1007,7 @@ curation:
     url: https://www.bmc.com/blogs/?p=12530
     domain: www.bmc.com
   - item_date: "2018-07-06 09:00:57"
-    title: "Nvidia DIGITS  An Easy Way to Get Started with Deep Learning"
+    title: Nvidia DIGITS  An Easy Way to Get Started with Deep Learning
     url: https://thenewstack.io/?p=5105931
     domain: thenewstack.io
   - item_date: "2018-07-06 10:02:00"
@@ -1060,7 +1060,7 @@ curation:
     url: https://blog.algorithmia.com/?p=12814
     domain: blog.algorithmia.com
   - item_date: "2018-05-19 10:05:49"
-    title: "Google's Vision API"
+    title: Google's Vision API
     url: https://medium.com/p/eb82be1c59f8
     domain: medium.com
   - item_date: "2018-05-14 09:02:01"
@@ -1097,7 +1097,7 @@ curation:
     url: https://blog.algorithmia.com/?p=11910
     domain: blog.algorithmia.com
   - item_date: "2018-03-21 11:36:26"
-    title: "Machine Learning and Artificial Intelligence  What they are to business"
+    title: Machine Learning and Artificial Intelligence  What they are to business
     url: https://medium.com/p/fad5aad32d98
     domain: medium.com
   - item_date: "2018-03-24 22:20:33"
@@ -1134,7 +1134,7 @@ curation:
     url: https://medium.com/p/2bed9eeff664
     domain: medium.com
   - item_date: "2018-03-08 07:00:38"
-    title: "What machine learning isn't"
+    title: What machine learning isn't
     url: https://medium.com/p/d70f8a48d1ce
     domain: medium.com
   - item_date: "2018-03-08 04:01:01"
@@ -1167,8 +1167,8 @@ curation:
     url: http://techcrunch.com/?p=1601239
     domain: techcrunch.com
   - item_date: "2018-02-22 09:37:21"
-    title: "ARM's Project Trillium Brings Dedicated Machine Learning Hardware
-      to Smart Devices"
+    title: ARM's Project Trillium Brings Dedicated Machine Learning Hardware to Smart
+      Devices
     url: https://thenewstack.io/?p=4154843
     domain: thenewstack.io
   - item_date: "2018-02-24 04:51:00"
@@ -1184,7 +1184,7 @@ curation:
     url: https://dzone.com/articles/2057428
     domain: dzone.com
   - item_date: "2018-02-12 07:52:15"
-    title: "Beyond Apps: A Developer's Guide to Getting Started in Machine Learning"
+    title: 'Beyond Apps: A Developer''s Guide to Getting Started in Machine Learning'
     url: https://medium.com/p/39eec82a965d
     domain: medium.com
   - item_date: "2018-02-15 00:44:58"
@@ -1276,7 +1276,7 @@ curation:
     url: https://thenewstack.io/?p=3799923
     domain: thenewstack.io
   - item_date: "2017-12-17 19:53:27"
-    title: "TensorIoT  Making Things Intelligent"
+    title: TensorIoT  Making Things Intelligent
     url: https://medium.com/p/83ca677346bd
     domain: medium.com
   - item_date: "2017-12-26 02:01:02"
@@ -1296,8 +1296,8 @@ curation:
     url: https://dzone.com/articles/1915200
     domain: dzone.com
   - item_date: "2017-12-07 04:59:25"
-    title: "Automatic recognition of speed limit signs  Deep learning with Keras
-      and Tensorflow"
+    title: Automatic recognition of speed limit signs  Deep learning with Keras and
+      Tensorflow
     url: https://medium.com/p/310d90af9826
     domain: medium.com
   - item_date: "2017-12-21 13:19:16"
@@ -1394,7 +1394,7 @@ curation:
     url: https://dzone.com/articles/1870076
     domain: dzone.com
   - item_date: "2017-11-29 10:06:48"
-    title: "Amazon's AWS DeepLens is an AI camera for developers"
+    title: Amazon's AWS DeepLens is an AI camera for developers
     url: http://techcrunch.com/?p=1572483
     domain: techcrunch.com
   - item_date: "2017-11-29 10:14:17"
@@ -1439,11 +1439,11 @@ curation:
     url: https://thenewstack.io/?p=3593057
     domain: thenewstack.io
   - item_date: "2017-11-27 09:14:15"
-    title: "Finnish Startup Valohai Wants to be the 'GitHub of Machine Learning'"
+    title: Finnish Startup Valohai Wants to be the 'GitHub of Machine Learning'
     url: https://thenewstack.io/?p=3198223
     domain: thenewstack.io
   - item_date: "2017-11-26 04:20:15"
-    title: "Faster computers aren't the key driver behind Machine Learning adoption"
+    title: Faster computers aren't the key driver behind Machine Learning adoption
     url: https://medium.com/p/c283b35d9df6
     domain: medium.com
   - item_date: "2017-11-27 10:37:33"
@@ -1471,8 +1471,8 @@ curation:
     url: https://medium.com/p/8257d4777198
     domain: medium.com
   - item_date: "2017-11-24 10:32:25"
-    title: "Amazon Web Services updated its recognition tech  here's what you
-      need to know (AMZN)"
+    title: Amazon Web Services updated its recognition tech  here's what you need
+      to know (AMZN)
     url: http://www.businessinsider.com/amazon-web-services-updated-its-recognition-tech-2017-11?utm_source=feedly&amp;utm_medium=referral
     domain: www.businessinsider.com
   - item_date: "2017-11-24 11:09:05"
@@ -1480,7 +1480,7 @@ curation:
     url: https://medium.com/p/4e93a1004c8f
     domain: medium.com
   - item_date: "2017-11-24 05:14:01"
-    title: "More Machine Learning About Congress' Priorities"
+    title: More Machine Learning About Congress' Priorities
     url: http://thegovlab.org/?p=22004
     domain: thegovlab.org
   - item_date: "2017-11-22 02:02:01"
@@ -1500,7 +1500,7 @@ curation:
     url: https://medium.com/p/8127d793f930
     domain: medium.com
   - item_date: "2017-11-14 09:36:00"
-    title: "Data Tagging in Medical Imaging  Diving Deep into the Processes"
+    title: Data Tagging in Medical Imaging  Diving Deep into the Processes
     url: https://medium.com/p/67bee10f94ec
     domain: medium.com
   - item_date: "2017-11-14 22:02:21"
@@ -1546,8 +1546,8 @@ curation:
     url: http://www.bmc.com/blogs/?p=11421
     domain: www.bmc.com
   - item_date: "2017-11-06 00:27:26"
-    title: "The Reason AI Terrifies the World's Greatest Minds and Why it's
-      Inevitable Machines Take Over"
+    title: The Reason AI Terrifies the World's Greatest Minds and Why it's Inevitable
+      Machines Take Over
     url: https://medium.com/p/3ff673a3955
     domain: medium.com
   - item_date: "2017-11-02 09:00:05"
@@ -1611,19 +1611,19 @@ curation:
     url: https://medium.com/p/206936af44a9
     domain: medium.com
   - item_date: "2017-10-16 09:50:08"
-    title: "Training an Architectural Classifier  V"
+    title: Training an Architectural Classifier  V
     url: https://medium.com/p/fe82e83e94ec
     domain: medium.com
   - item_date: "2017-10-11 15:06:26"
-    title: "Training an Architectural Classifier  IV"
+    title: Training an Architectural Classifier  IV
     url: https://medium.com/p/4f76bc6844bc
     domain: medium.com
   - item_date: "2017-10-11 15:02:54"
-    title: "Training an Architectural Classifier  III"
+    title: Training an Architectural Classifier  III
     url: https://medium.com/p/84dd5f3cf51c
     domain: medium.com
   - item_date: "2017-10-11 15:00:25"
-    title: "Training an Architectural Classifier  II"
+    title: Training an Architectural Classifier  II
     url: https://medium.com/p/bf29eca3cfa6
     domain: medium.com
   - item_date: "2017-10-26 14:20:32"
@@ -1675,8 +1675,7 @@ curation:
     url: https://medium.com/p/8a1f90e8fb24
     domain: medium.com
   - item_date: "2017-10-19 16:59:04"
-    title: "Google's AVA data set raises the bar for identifying human actions
-      in videos"
+    title: Google's AVA data set raises the bar for identifying human actions in videos
     url: http://techcrunch.com/?p=1557401
     domain: techcrunch.com
   - item_date: "2017-10-17 00:00:00"
@@ -1766,8 +1765,8 @@ curation:
     url: https://thenewstack.io/?p=3153842
     domain: thenewstack.io
   - item_date: "2017-09-24 16:13:46"
-    title: "Making your search not suck with Elasticsearch  Part 7: Machines
-      that learn"
+    title: 'Making your search not suck with Elasticsearch  Part 7: Machines that
+      learn'
     url: https://medium.com/p/52a6693c8c09
     domain: medium.com
   - item_date: "2017-09-22 13:52:58"
@@ -1845,8 +1844,8 @@ curation:
     url: http://mashable.com/?p=bp-56303
     domain: mashable.com
   - item_date: "2017-09-12 02:06:48"
-    title: "Researchers use facial recognition tools to predict sexual orientation.
-      LGBT groups aren't happy."
+    title: Researchers use facial recognition tools to predict sexual orientation.
+      LGBT groups aren't happy.
     url: https://www.washingtonpost.com/news/morning-mix/wp/2017/09/12/researchers-use-facial-recognition-tools-to-predict-sexuality-lgbt-groups-arent-happy/
     domain: www.washingtonpost.com
   - item_date: "2017-09-11 17:45:19"
@@ -1854,7 +1853,7 @@ curation:
     url: https://www.tensorflow.org/get_started/summaries_and_tensorboard
     domain: www.tensorflow.org
   - item_date: "2017-09-11 02:10:34"
-    title: "Case Study  Machine learning about sexual orientation?"
+    title: Case Study  Machine learning about sexual orientation?
     url: http://callingbullshit.org/case_studies/case_study_ml_sexual_orientation.html
     domain: callingbullshit.org
   - item_date: "2017-09-09 10:52:45"
@@ -1947,7 +1946,7 @@ curation:
     url: https://www.engadget.com/2017/08/22/thanks-google-shutterstock-stop-automated-watermark-removal/
     domain: www.engadget.com
   - item_date: "2017-08-21 08:47:12"
-    title: "Shutterstock has reverse engineered Google's watermark"
+    title: Shutterstock has reverse engineered Google's watermark
     url: https://thenextweb.com/?p=1070787
     domain: thenextweb.com
   - item_date: "2017-08-20 10:08:23"
@@ -1971,7 +1970,7 @@ curation:
     url: https://blog.algorithmia.com/?p=8867
     domain: blog.algorithmia.com
   - item_date: "2017-08-15 22:13:22"
-    title: "Emotion recognition  a deep dive into human emotions"
+    title: Emotion recognition  a deep dive into human emotions
     url: https://medium.com/p/9ea5572740a8
     domain: medium.com
   - item_date: "2017-08-18 08:57:55"
@@ -2014,7 +2013,7 @@ curation:
     url: https://neo4j.com/?p=69332
     domain: neo4j.com
   - item_date: "2017-08-09 15:00:55"
-    title: "MapR's Ted Dunning: The Intersection of Machine Learning and Containers"
+    title: 'MapR''s Ted Dunning: The Intersection of Machine Learning and Containers'
     url: https://thenewstack.io/?p=2839721
     domain: thenewstack.io
   - item_date: "2017-08-09 15:22:30"
@@ -2111,8 +2110,8 @@ curation:
     url: https://www.elastic.co/blog/alerting-on-machine-learning-jobs-in-elasticsearch-v55
     domain: www.elastic.co
   - item_date: "2017-07-18 04:10:27"
-    title: "Google's AI scientists showed that you can get better image recognition
-      results by feeding machines a whole lot more data (GOOG)"
+    title: Google's AI scientists showed that you can get better image recognition
+      results by feeding machines a whole lot more data (GOOG)
     url: http://www.businessinsider.com/google-ai-team-showed-you-get-better-image-recognition-results-by-feeding-machines-more-data-2017-7?utm_source=feedly&amp;utm_medium=referral
     domain: www.businessinsider.com
   - item_date: "2017-07-18 06:00:46"
@@ -2190,8 +2189,7 @@ curation:
     url: http://www.bmc.com/blogs/?p=10803
     domain: www.bmc.com
   - item_date: "2017-06-26 09:22:29"
-    title: "I'm here to tell you the truth, the good, the bad and the ugly of
-      AWS X"
+    title: I'm here to tell you the truth, the good, the bad and the ugly of AWS X
     url: https://medium.com/p/f212b5f332e9
     domain: medium.com
   - item_date: "2017-06-27 11:27:09"
@@ -2199,7 +2197,7 @@ curation:
     url: https://blog.algorithmia.com/?p=7799
     domain: blog.algorithmia.com
   - item_date: "2017-06-27 14:02:00"
-    title: "Microsoft's machine learning can predict injuries in sports"
+    title: Microsoft's machine learning can predict injuries in sports
     url: https://www.engadget.com/2017/06/27/microsoft-sports-performance-platform/
     domain: www.engadget.com
   - item_date: "2017-07-05 06:12:45"
@@ -2207,7 +2205,7 @@ curation:
     url: https://thenextweb.com/?p=1055775
     domain: thenextweb.com
   - item_date: "2017-06-21 11:19:48"
-    title: "SAP Leonardo Machine Learning  Useful Information for the Ecosystem"
+    title: SAP Leonardo Machine Learning  Useful Information for the Ecosystem
     url: https://medium.com/p/8d38ae92c757
     domain: medium.com
   - item_date: "2017-06-21 23:22:27"
@@ -2313,7 +2311,7 @@ curation:
     url: https://medium.com/@srobtweets/exploring-the-cloud-vision-api-1af9bcf080b8
     domain: medium.com
   - item_date: "2017-06-02 10:19:02"
-    title: "In Machine Learning, It's All about the Process"
+    title: In Machine Learning, It's All about the Process
     url: https://thenewstack.io/machine-learning-process/
     domain: thenewstack.io
   - item_date: "2017-06-02 14:25:16"
@@ -2346,7 +2344,7 @@ curation:
     url: https://neo4j.com/?p=65266
     domain: neo4j.com
   - item_date: "2017-05-23 03:00:41"
-    title: "In Machine Learning, It's All about the Process"
+    title: In Machine Learning, It's All about the Process
     url: https://thenewstack.io/?p=2365110
     domain: thenewstack.io
   - item_date: "2017-05-24 14:19:09"
@@ -2366,7 +2364,7 @@ curation:
     url: https://www.theverge.com/2017/5/17/15651246/google-assistant-iphone-ai-future-interface-io-2017
     domain: www.theverge.com
   - item_date: "2017-05-17 11:54:25"
-    title: "Google's TensorFlow Lite brings machine learning to Android devices"
+    title: Google's TensorFlow Lite brings machine learning to Android devices
     url: http://techcrunch.com/?p=1492527
     domain: techcrunch.com
   Real Time:
@@ -2500,7 +2498,7 @@ curation:
     url: https://dzone.com/articles/2299607
     domain: dzone.com
   - item_date: "2018-06-30 12:00:21"
-    title: "This Week in Numbers: Apache Kafka's Metamorphosis"
+    title: 'This Week in Numbers: Apache Kafka''s Metamorphosis'
     url: https://thenewstack.io/?p=5069187
     domain: thenewstack.io
   - item_date: "2018-06-22 02:00:00"
@@ -2595,7 +2593,7 @@ curation:
     url: https://www.confluent.io/?p=11366
     domain: www.confluent.io
   - item_date: "2018-03-16 09:50:35"
-    title: "API Rate Limiting? Don't! Offer A Premium Streaming API"
+    title: API Rate Limiting? Don't! Offer A Premium Streaming API
     url: https://streamdata.io/?p=6167
     domain: streamdata.io
   - item_date: "2018-03-15 05:01:01"
@@ -2773,7 +2771,7 @@ curation:
     url: http://blog.pusher.com/?p=3837
     domain: blog.pusher.com
   - item_date: "2017-12-26 01:00:10"
-    title: "Monitoring Laravel's background queues in realtime using Pusher"
+    title: Monitoring Laravel's background queues in realtime using Pusher
     url: http://blog.pusher.com/?p=3870
     domain: blog.pusher.com
   - item_date: "2017-12-17 22:01:04"
@@ -2817,8 +2815,7 @@ curation:
     url: https://dzone.com/articles/1894400
     domain: dzone.com
   - item_date: "2017-12-16 13:50:16"
-    title: "Pushpin  An Open Source Library That Turns REST APIs into Realtime
-      APIs"
+    title: Pushpin  An Open Source Library That Turns REST APIs into Realtime APIs
     url: https://medium.com/p/ebb3253e63ce
     domain: medium.com
   - item_date: "2017-12-16 07:03:05"
@@ -2905,8 +2902,8 @@ curation:
     url: http://labs.spotify.com/?p=1920
     domain: labs.spotify.com
   - item_date: "2017-11-19 02:46:55"
-    title: "HTTP and Websockets: Understanding the capabilities of today's web
-      communication technologies"
+    title: 'HTTP and Websockets: Understanding the capabilities of today''s web communication
+      technologies'
     url: https://medium.com/p/35df8167460
     domain: medium.com
   - item_date: "2017-11-14 09:03:24"
@@ -2914,7 +2911,7 @@ curation:
     url: https://medium.com/p/c4111cfa0dc3
     domain: medium.com
   - item_date: "2017-11-15 22:40:06"
-    title: "GitHub's Atom text editor now lets you collaborate on code in real"
+    title: GitHub's Atom text editor now lets you collaborate on code in real
     url: https://thenextweb.com/?p=1091399
     domain: thenextweb.com
   - item_date: "2017-11-17 07:01:40"
@@ -2930,7 +2927,7 @@ curation:
     url: https://www.datanami.com/2017/11/15/first-look-scio-scala-api-apache-beam/
     domain: www.datanami.com
   - item_date: "2017-11-11 09:05:20"
-    title: "Introduction  AsyncAPI"
+    title: Introduction  AsyncAPI
     url: https://www.asyncapi.com/v1/guide/
     domain: www.asyncapi.com
   - item_date: "2017-11-08 08:56:58"
@@ -2950,7 +2947,7 @@ curation:
     url: https://medium.com/p/3200982d92f9
     domain: medium.com
   - item_date: "2017-10-31 04:47:22"
-    title: "Websockets and IoT: Why don't the two go together?"
+    title: 'Websockets and IoT: Why don''t the two go together?'
     url: https://readwrite.com/?p=99636
     domain: readwrite.com
   - item_date: "2017-10-29 08:42:09"
@@ -2991,7 +2988,7 @@ curation:
     url: https://www.confluent.io/?p=9227
     domain: www.confluent.io
   - item_date: "2017-10-17 09:25:34"
-    title: "Arbitrary Stateful Processing in Apache Spark's Structured Streaming"
+    title: Arbitrary Stateful Processing in Apache Spark's Structured Streaming
     url: https://databricks.com/?p=12547
     domain: databricks.com
   - item_date: "2017-10-17 14:00:10"
@@ -3071,7 +3068,7 @@ curation:
     url: https://thenewstack.io/?p=2965179
     domain: thenewstack.io
   - item_date: "2017-09-01 09:08:38"
-    title: "Do your Streaming ETL at Scale with Apache Spark's Structured Streaming"
+    title: Do your Streaming ETL at Scale with Apache Spark's Structured Streaming
     url: https://databricks.com/?p=12064
     domain: databricks.com
   - item_date: "2017-08-17 05:48:49"
@@ -3204,7 +3201,7 @@ curation:
     url: https://medium.com/p/b04ec2bf9ca2
     domain: medium.com
   - item_date: "2018-03-30 07:04:38"
-    title: "Capturing Webhooks with Google Sheets  Runscope Blog"
+    title: Capturing Webhooks with Google Sheets  Runscope Blog
     url: https://blog.runscope.com/posts/tutorial-capturing-webhooks-with-google-sheets
     domain: blog.runscope.com
   - item_date: "2018-03-24 03:32:30"
@@ -3232,7 +3229,7 @@ curation:
     url: https://medium.com/p/d02835cc50bf
     domain: medium.com
   - item_date: "2018-02-09 01:07:42"
-    title: "Don't call us, we'll call you: Sending webhooks with Rails"
+    title: 'Don''t call us, we''ll call you: Sending webhooks with Rails'
     url: https://medium.com/p/5775241d7eb
     domain: medium.com
   - item_date: "2018-02-05 10:01:02"
@@ -3280,8 +3277,8 @@ curation:
     url: https://blog.codeship.com/?p=5875
     domain: blog.codeship.com
   - item_date: "2017-12-08 00:06:01"
-    title: "The #1 Problem with Webhooks in Data Integration, and How We've Fixed
-      It"
+    title: 'The #1 Problem with Webhooks in Data Integration, and How We''ve Fixed
+      It'
     url: https://medium.com/p/f5ea6cd5927b
     domain: medium.com
   - item_date: "2017-12-03 14:28:21"
@@ -3313,7 +3310,7 @@ curation:
     url: https://medium.com/p/481b2a81ac4f
     domain: medium.com
   - item_date: "2017-10-23 22:13:45"
-    title: "A beginner's guide to using webhooks"
+    title: A beginner's guide to using webhooks
     url: https://medium.com/p/3d95018fabbc
     domain: medium.com
   - item_date: "2017-10-24 10:54:22"
@@ -3397,11 +3394,11 @@ curation:
     url: https://medium.com/p/8dc1236b6740
     domain: medium.com
   - item_date: "2017-08-09 09:30:17"
-    title: "Video 101  Webhooks"
+    title: Video 101  Webhooks
     url: https://medium.com/p/d56ab2735018
     domain: medium.com
   - item_date: "2017-08-09 09:30:17"
-    title: "Video 101  Webhooks"
+    title: Video 101  Webhooks
     url: https://medium.com/p/d56ab2735018
     domain: medium.com
   - item_date: "2017-08-08 09:51:33"
@@ -3429,7 +3426,7 @@ curation:
     url: https://medium.com/p/db5096fc1930
     domain: medium.com
   - item_date: "2017-07-10 09:16:52"
-    title: "Webhook vs API: What's the Difference?"
+    title: 'Webhook vs API: What''s the Difference?'
     url: https://medium.com/p/8d41e6661652
     domain: medium.com
   - item_date: "2017-07-12 07:29:53"
@@ -3505,3 +3502,4 @@ curation:
     title: Serverless Webhooks with Auth0 Extend
     url: https://auth0.com/blog/serverless-webhooks-with-auth0-extend
     domain: auth0.com
+  SDIO Syndication: []
