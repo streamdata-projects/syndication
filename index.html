@@ -104,26 +104,3 @@ layout: default
    </div>
 </div>
 <!--list syndications--->
-
-<!--list curation--->
-<div class="partnersPanel">
-   <div class="partnersPanel__container">
-
-      {% assign curations = site.curation %}
-      {% assign number_of_curations = curations | size %}
-      {% for curation in curations %}
-      <div class="partnersPanel__item enterAnimation" data-enter-animation>
-         <div class="partnersPanel__itemName">{{ curation[0] }}</div>
-         <div style="height: 400px; overflow: scroll;">
-           <ul style="list-style-type: circle; padding-top: 15px;">
-             {% for item in curation[1] %}
-                <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ item.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ item.title }}</a>  ({{ item.domain }}) ({{ item.item_date }})</li>
-            {% endfor %}
-           </ul>
-         </div>
-      </div>
-      {% endfor %}
-
-   </div>
-</div>
-<!--list curation--->
