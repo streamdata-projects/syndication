@@ -23,39 +23,7 @@ syndications:
   portal_url: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dzone-logo.png
   image_width: "150"
-  latest_blog:
-  - item_date: "2018-08-06 10:02:03"
-    title: Streaming Technology as Event
-    url: https://dzone.com/articles/2364473
-    domain: dzone.com
-  - item_date: "2018-08-07 10:01:02"
-    title: Considering Event
-    url: https://dzone.com/articles/2368443
-    domain: dzone.com
-  - item_date: "2018-08-09 22:08:01"
-    title: Is Providing an External Streaming API Enough?
-    url: https://dzone.com/articles/2374765
-    domain: dzone.com
-  - item_date: "2018-08-12 22:06:02"
-    title: Searching OpenAPI Parameters For Signs Of Archival Data
-    url: https://dzone.com/articles/2382416
-    domain: dzone.com
-  - item_date: "2018-08-13 10:31:01"
-    title: Augmenting Existing APIs With Event
-    url: https://dzone.com/articles/2376370
-    domain: dzone.com
-  - item_date: "2018-08-14 10:01:01"
-    title: Kicking the Tires on the SAP API Business Hub
-    url: https://dzone.com/articles/2384125
-    domain: dzone.com
-  - item_date: "2018-08-16 02:01:02"
-    title: Launching a Streaming Version of Your APIs for Your Heaviest Users
-    url: https://dzone.com/articles/2384850
-    domain: dzone.com
-  - item_date: "2018-08-01 08:40:02"
-    title: The Role of Machine Learning in Data Management
-    url: https://thenewstack.io/?p=5273843
-    domain: thenewstack.io
+  latest_blog: []
   latest_tweets: []
   latest_github_activity: []
   latest_reddit_searches: []
