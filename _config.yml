@@ -7,7 +7,7 @@ philosophy: This is our project area for syndicating relevant content, data, and
   as well as tools for helping track the most sensible approach to syndicating content
   across these locations.
 syndications:
-- organization_id: h0XcqyN0TsVIt7ImRbcLW9Yy1SZ9ui123RAjzpLsJLkcc117
+- organization_id: ""
   name: DZone
   description: DZone Software provides tools and processes to help customers accelerate
     productivity through agile learning and knowledge-centered collaboration.&nbsp;
@@ -33,7 +33,7 @@ syndications:
   - SDIO Syndication
   - Profiles
   - Media
-- organization_id: u3uvH1232116cq6r8UxtKIF5K9K123wmwI2DYgbBykQ116vyqso117
+- organization_id: ""
   name: Hacker News
   description: Hacker News is a social news website focusing on computer science and
     entrepreneurship. It is run by Paul Grahams investment fund and startup incubator,
@@ -142,7 +142,7 @@ syndications:
   - General Data
   - Curation
   - Bookmarks
-- organization_id: rHGu2O43h116868L87FuwJNJ123CxZGrxnAdkewzPXgo6TQ117
+- organization_id: ""
   name: LinkedIn
   description: DZone Software provides tools and processes to help customers accelerate
     productivity through agile learning and knowledge-centered collaboration.&nbsp;
@@ -186,7 +186,7 @@ syndications:
   - General Data
   - API Service Provider
   - API Provider
-- organization_id: uGiCn2x1xEj116XOvkmr01rbfchitjHP86XWXwFpKPV6E117
+- organization_id: ""
   name: Medium
   description: Medium is an online publishing platform founded by Twitter co-founder
     Evan Williams in August 2012. The platform has evolved into a hybrid of non-professional
@@ -219,7 +219,7 @@ syndications:
   - Blogging
   - API Service Provider
   - API Provider
-- organization_id: ZfpwQzgwRK6ZbvcKC6EBlzI0e1165xo0J2EsHOy123CgW116M117
+- organization_id: ""
   name: Reddit
   description: Reddit is a community of millions of users engaging in the creation
     of content and the sharing of conversation across tens of thousands of topics.
@@ -293,7 +293,7 @@ syndications:
   - Links
   - internet
   - General Data
-- organization_id: v60XvSWKaOhE8R3mMVrGRkf2RuqUBrKnkdJ1Ykx2RT0117
+- organization_id: ""
   name: Sweetcode
   description: Creating a meaningful voice is our business with our customers, and
     our passion within our community. Sweetcode is a site owned and managed by Fixate
